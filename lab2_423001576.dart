@@ -48,6 +48,6 @@ void main() {
   double sum = student.grades[0] + student.grades[1] + student.grades[2];
   double average = sum / student.grades.length;
 
-  computeGrade(average);
+  computeGrades(average);
     }
   
